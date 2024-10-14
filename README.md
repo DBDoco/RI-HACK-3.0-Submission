@@ -38,7 +38,7 @@ Imagine you're a piano expert. With RukaZaRuku, you can:
 
 ## Developers
 
-This project was brought to life by four talented developers in just 24 hours:
+This project was brought to life by four developers in just 24 hours:
 
 - [KiroPractic](https://github.com/KiroPractic)
 - [kospaolo](https://github.com/kospaolo)
